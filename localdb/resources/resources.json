@@ -1,0 +1,72 @@
+[
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&family=Changa:wght@200&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Baloo Bhai 2",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        },
+        {
+          "fontFamily": "Changa",
+          "fontStyle": "normal",
+          "fontWeight": 200
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Baloo Bhai 2",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Merriweather",
+          "fontStyle": "normal",
+          "fontWeight": 700
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,700&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Merriweather",
+          "fontStyle": "italic",
+          "fontWeight": 700
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Ubuntu",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        }
+      ]
+    }
+  }
+]
